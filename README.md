@@ -37,6 +37,6 @@ This bot was developed with the help of ChatGPT, a powerful AI tool. If you'd li
 # Contact
 If you have any questions or need help, reach out to subr0za#0001 on Discord.
 
-License
+# License
 This project is made for private server to enjoy with friends, you can modify the code as per need.
 
